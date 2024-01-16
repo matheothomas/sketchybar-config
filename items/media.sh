@@ -6,6 +6,7 @@ media=(
   label.max_chars=30
   scroll_texts=on
   updates=on
+  drawing=off
 )
 
 sketchybar --add item media center \
