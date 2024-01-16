@@ -11,4 +11,6 @@ Clone the repo in `~/.config/` with :
 cd ~/.config/
 git clone https://github.com/matheothomas/sketchybar-config
 ```
+## Example
 
+![sketchybar image](example.png)
