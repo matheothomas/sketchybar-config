@@ -1,6 +1,6 @@
 # SketchyBar config
 
-This is my personal SketchyBar configuration for MacOS, heavily inspired by (FelixKratz)[http://github.com/FelixKratz/SketchyBar] one.
+This is my personal SketchyBar configuration for MacOS, heavily inspired by [FelixKratz](https://github.com/FelixKratz/SketchyBar) one.
 
 ## Requirements
 - 
