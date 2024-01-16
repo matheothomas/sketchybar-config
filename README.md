@@ -3,7 +3,7 @@
 This is my personal SketchyBar configuration for MacOS, heavily inspired by [FelixKratz](https://github.com/FelixKratz/SketchyBar) one.
 
 ## Requirements
-- (SketchyBar)[https://github.com/FelixKratz/SketchyBar] 
+- [SketchyBar](https://github.com/FelixKratz/SketchyBar) 
 
 ## Installation
 Clone the repo in `~/.config/` with :
