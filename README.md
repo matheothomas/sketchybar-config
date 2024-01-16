@@ -6,8 +6,8 @@ This is my personal SketchyBar configuration for MacOS, heavily inspired by [Fel
 - 
 
 ## Installation
-Clone the repo and compile the code with :
+Clone the repo with :
 ```bash
-git clone https://github.com/matheothomas/project-name
+git clone https://github.com/matheothomas/sketchybar-config
 ```
 
