@@ -24,6 +24,7 @@ bar=(
   height=32
   color=$BAR_COLOR
   border_width=2
+  blur_radius=20
   #border_color=$BAR_BORDER_COLOR
   border_color=$WHITE
   shadow=off
@@ -81,6 +82,7 @@ source "$ITEM_DIR/media.sh"
 source "$ITEM_DIR/calendar.sh"
 #source "$ITEM_DIR/github.sh"
 source "$ITEM_DIR/wifi.sh"
+source "$ITEM_DIR/vpn.sh"
 source "$ITEM_DIR/battery.sh"
 source "$ITEM_DIR/brew.sh"
 source "$ITEM_DIR/volume.sh"
