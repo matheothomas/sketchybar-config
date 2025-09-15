@@ -3,7 +3,7 @@
 # click() {
 source "$CONFIG_DIR/icons.sh"
 # if ifconfig | grep -q ipsec; then
-if ifconfig | grep -q utun10; then
+if ifconfig | grep -q utun8; then
 # if ifconfig | grep -q utun10; then
 	ICON="$VPN_CONNECTED"
 else
